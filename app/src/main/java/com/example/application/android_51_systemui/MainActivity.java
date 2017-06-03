@@ -8,6 +8,9 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
+/*
+ * 通过ArrayAdapter 将Activity进行切换。
+ * */
 public class MainActivity extends AppCompatActivity implements AdapterView.OnItemClickListener{
 
     private String[] mActivitys = new String[] {
