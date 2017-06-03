@@ -12,7 +12,7 @@ public class FullActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_full);
+        setContentView(R.layout.activity_main);
     }
 
     public void onToggleClick(View view) {

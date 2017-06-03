@@ -9,7 +9,7 @@ public class HideActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_hide);
+        setContentView(R.layout.activity_main);
     }
 
     public void onToggleClick(View view) {

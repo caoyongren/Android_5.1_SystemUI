@@ -13,7 +13,7 @@ public class DarkActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_dark);
+        setContentView(R.layout.activity_main);
     }
 
     public void onToggleClick(View view) {
