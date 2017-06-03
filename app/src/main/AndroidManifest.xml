@@ -16,6 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:name=".DarkActivity">
+        </activity>
+        <activity android:name=".FullActivity">
+        </activity>
+        <activity android:name=".HideActivity">
+        </activity>
+        <activity android:name=".ImmersiveActivity">
+        </activity>
     </application>
 
 </manifest>
